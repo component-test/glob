@@ -1,0 +1,8 @@
+{
+  "name": "glob",
+  "repo": "component-test/glob",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": ["lib/**/*.js"],
+  "styles": ["lib/**/*.css"]
+}
